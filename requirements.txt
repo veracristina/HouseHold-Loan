@@ -2,3 +2,13 @@ streamlit
 pandas
 matplotlib
 xlsxwriter
+plotly
+openpyxl
+numpy
+scikit-learn
+scipy
+scikit-image
+pillow
+streamlit-plotly-events
+streamlit-ace
+streamlit-plotly-events
